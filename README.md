@@ -18,7 +18,7 @@ TaskTracker is a comprehensive task management application built with React and 
 
 ## 🚀 Live Demo
 
-Check out the live demo of TaskTracker [here](https://task-tracker-demo.com).
+Check out the live demo of TaskTracker [here](https://cheery-fenglisu-bfcb2f.netlify.app/).
 
 ## 🛠️ Tech Stack
 
